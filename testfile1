@@ -2,3 +2,7 @@ print("Hello, World!")
 print("whats your name?")
 name = input()
 print("Hello " + name + "!")
+if name == "Mercury":
+  print("Hello Maker!")
+else:
+  print("Nice to meet you!")
